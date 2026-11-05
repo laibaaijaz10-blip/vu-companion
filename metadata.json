@@ -1,0 +1,6 @@
+{
+  "name": "Studio Workspace",
+  "description": "An interactive creative workspace and application architect to explore, customize, and launch web applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
